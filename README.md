@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -96,12 +97,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
