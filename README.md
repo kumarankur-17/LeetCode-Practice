@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
