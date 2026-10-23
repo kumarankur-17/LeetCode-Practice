@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 <!---LeetCode Topics End-->
