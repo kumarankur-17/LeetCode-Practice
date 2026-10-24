@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
