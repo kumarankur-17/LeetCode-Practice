@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
