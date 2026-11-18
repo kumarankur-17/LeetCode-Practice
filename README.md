@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
