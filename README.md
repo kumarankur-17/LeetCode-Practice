@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/kumarankur-17/LeetCode-Practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
